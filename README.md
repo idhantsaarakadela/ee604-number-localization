@@ -13,7 +13,8 @@ Use Python 3.11 on Linux with the packages listed in `packages.txt`. Upload a JP
 
 ## Deploy
 
-Deploy the GitHub repository on Streamlit Community Cloud. Set the branch to `main`, the main file to `app.py`, and the Python version to 3.11. The repository root must contain `requirements.txt`, `packages.txt`, and `weights/best.pt`. Add the app URL here after deployment.
+Following link can be used to run it on streamlit.
+https://ee604-number-localization.streamlit.app/
 
 ## Repository contents
 
